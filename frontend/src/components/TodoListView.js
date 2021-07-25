@@ -1,5 +1,5 @@
-// @bekbrace
-// FARMSTACK Tutorial - Sunday 13.06.2021
+// @lukasjoho
+// FARMSTACK
 
 import TodoItem from './Todo';
 

@@ -1,5 +1,6 @@
-// @bekbrace
-// FARMSTACK Tutorial - Sunday 13.06.2021
+// @lukasjoho
+// FARMSTACK
+
 import axios from 'axios';
 import React from 'react';
 
