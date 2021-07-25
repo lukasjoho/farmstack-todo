@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Farmstack Todo App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was built with **FastAPI**, **React** and **MongoDB**.
 
 ## Available Scripts
 
